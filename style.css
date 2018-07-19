@@ -1,0 +1,47 @@
+/* Sample Webpage Lab  style.css - Note that you need to fill this in yourself! */
+html {
+  background-color: lightblue;
+}
+body {
+  /* Body styles go here.  Example:*/
+  font: 20px "Times New Roman", Arial, sans-serif;
+}
+p {
+  color: orange;
+}
+h1 {
+
+}
+a:visited {
+  /* Different formatting for active links- there's also
+  a:visited and a:hover */
+  color: red;
+}
+a:hover {
+  color: green;
+}
+/* Other possible style blocks go here... */
+.roundrect {
+  border-radius: 35px;
+}
+.c1 {
+  box-shadow: 5px 5px 10px #888;
+}
+.blue {
+  color: blue;
+}
+.creepy {
+  font: 75px Chiller;
+}
+.bloody {
+    background-color: #611D29;
+}
+.center {
+  text-align: center;
+}
+.underlined {
+  text-decoration: underline;
+}
+.tab {
+  text-indent: 2em
+}
